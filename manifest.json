@@ -1,0 +1,9 @@
+{
+  "name": "Art of Elimination",
+  "short_name": "Elimination",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#efefed",
+  "theme_color": "#efefed",
+  "description": "Pause, breathe, release, create space, continue."
+}
